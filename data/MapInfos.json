@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"廚房","order":2,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"互動篇","order":3,"parentId":0,"scrollX":970.8,"scrollY":529.8}
+]
